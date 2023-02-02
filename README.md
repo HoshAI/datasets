@@ -1,16 +1,16 @@
-# dataset
+## dataset
 A collection of datasets of ML problem solving
 
 
-#Datasets collected from R packages
+# Datasets collected from R packages
 
-mlbench
-kernlab
-klaR
-car
-reshape2
-hflights
-ISLR
+* mlbench
+* kernlab
+* klaR
+*  car
+*  reshape2
+*   hflights
+*  ISLR
 The original source repositories are:
 ftp://ftp.ics.uci.edu/pub/machine-learning-databases
 http://www.ics.uci.edu/~mlearn/MLRepository.html
